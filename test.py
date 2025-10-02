@@ -1,0 +1,5 @@
+print('hi', end='\r')
+print('hello', end='\n')
+print('hi', end='')
+print('yo', end=' ')
+print('whats up', end='?')
